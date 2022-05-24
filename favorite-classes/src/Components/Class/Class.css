@@ -1,5 +1,28 @@
 .class {
-    width: 100px;
-    height: 100px;
-    background-color: palegoldenrod;
+    width: 500px;
+    background-color: seagreen;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+h1{
+    padding-top: 1.5rem;
+}
+#class-id{
+    font-weight: bold;
+    
+}
+#title{
+    background-color: skyblue;
+    font-weight: bold;
+}
+#department{
+    background-color: salmon;
+    font-weight: bold;
+}
+#description{
+    background-color: sandybrown;
+}
+
+#instructorNames{
+    font-weight: bold;
 }
